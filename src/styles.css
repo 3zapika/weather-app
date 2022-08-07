@@ -129,3 +129,7 @@ ul {
 .icon {
   width: 25px;
 }
+.open-source {
+  text-align: center;
+  font-size: small;
+}
